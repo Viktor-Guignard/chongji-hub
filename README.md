@@ -1,4 +1,13 @@
-# CHONG JI 冲击 — Compagnon de soutenance
+# CHONG JI 冲击
 
-HUB iPad : menu 7 cases ouvrant les vrais slides du deck (galerie 3D, charte, mockups, billet, appli, festival) + expérience AR (Zappar) en overlay.
+Menu d'accès : **la présentation** (deck complet de soutenance) et **l'appli du festival**
+(prototype web mobile).
+
 Ouvrir : https://viktor-guignard.github.io/chongji-hub/
+
+- `index.html` — menu d'accueil (2 cartes)
+- `presentation.html` — deck complet (mémoire, projet, système graphique)
+- `appli.html` — application mobile du festival (programme, billets, infos)
+- `hub-complet.html` — ancien compagnon iPad (7 cases + AR), conservé en bonus
+
+Viktor Guignard — M2 DADG · ESDAC Paris
